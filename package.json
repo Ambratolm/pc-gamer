@@ -1,0 +1,19 @@
+{
+  "name": "pc-gamer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "markdown-toc -i README.md"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ambratolm/pc-gamer.git"
+  },
+  "author": "Ambratolm <ambratolm@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ambratolm/pc-gamer/issues"
+  },
+  "homepage": "https://github.com/Ambratolm/pc-gamer#readme"
+}
